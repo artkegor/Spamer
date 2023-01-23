@@ -2,7 +2,6 @@ import time
 import pyautogui as auto
 from time import sleep
 
-
 # Starting
 print("Starting in 5 seconds")
 time.sleep(1)
