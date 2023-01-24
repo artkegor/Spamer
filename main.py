@@ -17,9 +17,9 @@ print("Let's go!")
 time.sleep(1)
 
 # Work in progress
-k = 0
+s = 0
 while True:
     auto.write(':3')
-    k += 1
+    s += 1
     auto.press('enter')
-    print(k)
+    print(s)
